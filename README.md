@@ -1,6 +1,9 @@
-<div style="background-color: red; padding: 20px;">
-  <h1 align="center" style="color: white;">Hi 👋, I'm Muteeb Qureshi</h1>
-  <h3 align="center" style="color: white;">Software Engineer | React Native | TypeScript | .NET | WordPress | Azure DevOps. Turning ideas into code and bringing digital innovations to life.</h3>
+<div style="position: relative; text-align: center; color: white;">
+  <img src="path_to_your_image/banner.jpg" alt="Banner" style="width:100%;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <h1>Hi 👋, I'm Muteeb Qureshi</h1>
+    <h3>Software Engineer | React Native | TypeScript | .NET | WordPress | Azure DevOps. Turning ideas into code and bringing digital innovations to life.</h3>
+  </div>
 </div>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2b517ef1e4a7cbd56860ca1ab5307560a37f9a57ebf6deb9b5e402bbc1c7dd4b/68747470733a2f2f7361736964686172616e2d706f7274666f6c696f2e6e65746c6966792e6170702f696d616765732f736b61747465722d70726f6772616d6d65725f7374696c6c5f32782e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muteebthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="muteebthecoder" /> </p>
